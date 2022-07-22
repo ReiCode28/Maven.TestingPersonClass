@@ -16,6 +16,7 @@ public class TestPerson {
         // When
         Person person = new Person();
 
+
         // Then
         String actualName = person.getName();
         Integer actualAge = person.getAge();
